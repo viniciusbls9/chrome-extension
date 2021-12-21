@@ -1,0 +1,17 @@
+.wrapper {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+button {
+  background-color: black;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  height: 40px;
+  padding: 10px;
+}
